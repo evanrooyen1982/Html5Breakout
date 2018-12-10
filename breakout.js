@@ -7,6 +7,7 @@ var y = canvas.height - 30;
 
 var dx = 2;
 var dy = -2;
+var test = 'test';
 
 function drawBall()
 {
